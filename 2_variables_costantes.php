@@ -46,8 +46,8 @@
         // la forma de defenir una costante es mediante la funcion define
         //sintaxis: define("nombre_valiable, valor_variable")
 
-        define("capital_colombia","Bogota")
-        define("70000000")
+        define("capital_colombia","Bogota");
+        define("70000000");
     ?>
 
     
